@@ -2,4 +2,4 @@
 
 A Multi-Selector Input project made with React-Typescript
 
-# Credits: WebDevSimplified
+## Credits: Web Dev Simplified
